@@ -1,0 +1,408 @@
+City,Country,Venue,Tour,Revenue,Tickets_Sold,Tickets_Available
+Evansville,United States,Roberts Municipal Stadium,Fearless_Tour,360617,7463,7463
+Jonesboro,United States,Convocation Center,Fearless_Tour,340328,7822,7822
+St. Louis,United States,Scottrade Center,Fearless_Tour,650420,13764,13764
+North Charleston,United States,North Charleston Coliseum,Fearless_Tour,398154,8751,8751
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,Fearless_Tour,507012,11072,11072
+Biloxi,United States,Mississippi Coast Coliseum,Fearless_Tour,437313,9436,9436
+London,England,Shepherd's Bush Empire,Fearless_Tour,401328,6789,6789
+London,England,Shepherd's Bush Empire,Fearless_Tour,401328,6789,6789
+Spokane,United States,Spokane Arena,Fearless_Tour,482146,10798,10798
+Seattle,United States,KeyArena,Fearless_Tour,528637,12061,12061
+Portland,United States,Rose Garden Arena,Fearless_Tour,613284,13226,13226
+Nampa,United States,Ford Arena,Fearless_Tour,413622,8970,8970
+Glendale,United States,Jobing.com Arena,Fearless_Tour,647923,13052,13052
+Los Angeles,United States,Staples Center,Fearless_Tour,720940,13648,13648
+Paradise,United States,Mandalay Bay Events Center,Fearless_Tour,551051,8311,8311
+San Diego,United States,Valley View Casino Center,Fearless_Tour,502689,10174,10174
+Salt Lake City,United States,EnergySolutions Arena,Fearless_Tour,555207,13042,13042
+Columbia,United States,Merriweather Post Pavilion,Fearless_Tour,608438,17619,17619
+Greensboro,United States,Greensboro Coliseum,Fearless_Tour,690959,14641,14641
+Edmonton,Canada,Commonwealth Stadium,Fearless_Tour,2540906,33910,44500
+Winnipeg,Canada,MTS Centre,Fearless_Tour,512487,11369,11369
+New York City,United States,Madison Square Garden,Fearless_Tour,976062,13597,13597
+Montville,United States,Mohegan Sun Arena,Fearless_Tour,296306,7507,7507
+Nashville,United States,Bridgestone Arena,Fearless_Tour,642387,14269,14269
+Dallas,United States,American Airlines Center,Fearless_Tour,628062,13794,13794
+North Little Rock,United States,Verizon Arena,Fearless_Tour,654089,13978,13978
+Cleveland,United States,Quicken Loans Arena,Fearless_Tour,743492,15524,15524
+Indianapolis,United States,Conseco Fieldhouse,Fearless_Tour,634876,13373,13373
+Rosemont,United States,Allstate Arena,Fearless_Tour,1150896,26265,26265
+Rosemont,United States,Allstate Arena,Fearless_Tour,1150896,26265,26265
+Minneapolis,United States,Target Center,Fearless_Tour,623975,13563,13563
+Brisbane,Australia,Brisbane Entertainment Centre,Fearless_Tour,956505,11334,11334
+Sydney,Australia,Acer Arena,Fearless_Tour,2030640,27030,27030
+Sydney,Australia,Acer Arena,Fearless_Tour,2030640,27030,27030
+Newcastle,Australia,Newcastle Entertainment Centre,Fearless_Tour,555396,7180,7180
+Melbourne,Australia,Rod Laver Arena,Fearless_Tour,1627510,23493,23493
+Melbourne,Australia,Rod Laver Arena,Fearless_Tour,1627510,23493,23493
+Adelaide,Australia,Adelaide Entertainment Centre,Fearless_Tour,585352,9066,9066
+Tampa,United States,St. Pete Times Forum,Fearless_Tour,793049,13861,13861
+Orlando,United States,Amway Arena,Fearless_Tour,598581,11101,11101
+Sunrise,United States,BankAtlantic Center,Fearless_Tour,777442,13453,13453
+Austin,United States,Frank Erwin Center,Fearless_Tour,642705,11928,11928
+Dallas,United States,American Airlines Center,Fearless_Tour,742954,14022,14022
+Corpus Christi,United States,American Bank Center Arena,Fearless_Tour,501169,8423,8423
+Philadelphia,United States,Wells Fargo Center,Fearless_Tour,2002321,30360,30360
+Philadelphia,United States,Wells Fargo Center,Fearless_Tour,2002321,30360,30360
+Charlottesville,United States,John Paul Jones Arena,Fearless_Tour,664305,11858,11858
+Auburn Hills,United States,The Palace of Auburn Hills,Fearless_Tour,1711591,29125,29125
+Auburn Hills,United States,The Palace of Auburn Hills,Fearless_Tour,1711591,29125,29125
+Cincinnati,United States,U.S. Bank Arena,Fearless_Tour,645592,11208,11208
+Oklahoma City,United States,Ford Center,Fearless_Tour,675184,11795,11795
+Wichita,United States,Intrust Bank Arena,Fearless_Tour,610801,11208,11208
+Kansas City,United States,Sprint Center,Fearless_Tour,761110,13781,13781
+Denver,United States,Pepsi Center,Fearless_Tour,1497135,25991,25991
+Denver,United States,Pepsi Center,Fearless_Tour,1497135,25991,25991
+Fresno,United States,Save Mart Center,Fearless_Tour,649488,11706,11706
+San Jose,United States,HP Pavilion,Fearless_Tour,716726,12744,12744
+Los Angeles,United States,Staples Center,Fearless_Tour,1736197,27518,27518
+Los Angeles,United States,Staples Center,Fearless_Tour,1736197,27518,27518
+Lexington,United States,Rupp Arena,Fearless_Tour,1024223,17966,17966
+Columbia,United States,Colonial Life Arena,Fearless_Tour,755475,13429,13429
+Raleigh,United States,RBC Center,Fearless_Tour,752303,13895,13895
+Des Moines,United States,Wells Fargo Arena,Fearless_Tour,738280,13264,13264
+Saint Paul,United States,Xcel Energy Center,Fearless_Tour,846111,14914,14914
+Moline,United States,iWireless Center,Fearless_Tour,610668,10641,10641
+Newark,United States,Prudential Center,Fearless_Tour,1742669,26065,26065
+Newark,United States,Prudential Center,Fearless_Tour,1742669,26065,26065
+Uniondale,United States,Nassau Veterans Memorial Coliseum,Fearless_Tour,1713529,25831,25831
+Uniondale,United States,Nassau Veterans Memorial Coliseum,Fearless_Tour,1713529,25831,25831
+Ottawa,Canada,Scotiabank Place,Fearless_Tour,873206,13376,13376
+Toronto,Canada,Air Canada Centre,Fearless_Tour,2497690,30458,30458
+Toronto,Canada,Air Canada Centre,Fearless_Tour,2497690,30458,30458
+Houston,United States,Toyota Center,Fearless_Tour,1290926,23493,23493
+Houston,United States,Toyota Center,Fearless_Tour,1290926,23493,23493
+Washington,United States,Verizon Center,Fearless_Tour,1824743,27290,27290
+Washington,United States,Verizon Center,Fearless_Tour,1824743,27290,27290
+Foxborough,United States,Gillette Stadium,Fearless_Tour,3726157,56868,56868
+Cavendish,Canada,Cavendish Beach Festival Grounds,Fearless_Tour,0,35000,35000
+Singapore,Singapore,Singapore Indoor Stadium,Speak_Now_World_Tour,916850,8964,8964
+Seoul,South Korea,Olympic Gymnastics Arena,Speak_Now_World_Tour,385374,4725,4725
+Osaka,Japan,Osaka-Jo Hall,Speak_Now_World_Tour,758113,6953,6953
+Tokyo,Japan,Nippon Budokan,Speak_Now_World_Tour,1738227,15955,15955
+Tokyo,Japan,Nippon Budokan,Speak_Now_World_Tour,1738227,15955,15955
+Quezon City,Philippines,Smart Araneta Coliseum,Speak_Now_World_Tour,859037,12667,12667
+Hong Kong,Hong Kong,AsiaWorldArena,Speak_Now_World_Tour,1030633,12573,12573
+Brussels,Belgium,Forest National,Speak_Now_World_Tour,219212,4622,4622
+Rotterdam,Netherlands,Sportpaleis van Ahoy,Speak_Now_World_Tour,248314,4799,4799
+Oslo,Norway,Oslo Spektrum,Speak_Now_World_Tour,815246,8650,8650
+Oberhausen,Germany,König Pilsener Arena,Speak_Now_World_Tour,370028,6082,6082
+Milan,Italy,Mediolanum Forum,Speak_Now_World_Tour,153303,3421,5585
+Paris,France,Zénith de Paris,Speak_Now_World_Tour,201781,3598,8500
+Madrid,Spain,Palacio de los Deportes,Speak_Now_World_Tour,251864,3962,3962
+Birmingham,England,LG Arena,Speak_Now_World_Tour,508854,9339,9339
+Belfast,Northern Ireland,Odyssey Arena,Speak_Now_World_Tour,379001,8058,8058
+Dublin,Ireland,The O2,Speak_Now_World_Tour,419806,8681,8681
+Manchester,England,Manchester Evening News Arena,Speak_Now_World_Tour,580558,10488,11622
+London,England,The O2 Arena,Speak_Now_World_Tour,891152,15265,15681
+Omaha,United States,Qwest Center Omaha,Speak_Now_World_Tour,1717104,26992,26992
+Omaha,United States,Qwest Center Omaha,Speak_Now_World_Tour,1717104,26992,26992
+Des Moines,United States,Wells Fargo Arena,Speak_Now_World_Tour,862771,13149,13149
+Sunrise,United States,BankAtlantic Center,Speak_Now_World_Tour,1582951,24077,24077
+Sunrise,United States,BankAtlantic Center,Speak_Now_World_Tour,1582951,24077,24077
+Orlando,United States,Amway Center,Speak_Now_World_Tour,791980,12262,12262
+Columbus,United States,Nationwide Arena,Speak_Now_World_Tour,955259,14817,14817
+Milwaukee,United States,Bradley Center,Speak_Now_World_Tour,897042,13748,13748
+Detroit,United States,Ford Field,Speak_Now_World_Tour,3453549,47992,47992
+Saint Paul,United States,Xcel Energy Center,Speak_Now_World_Tour,1913737,28977,28977
+Saint Paul,United States,Xcel Energy Center,Speak_Now_World_Tour,1913737,28977,28977
+Pittsburgh,United States,Heinz Field,Speak_Now_World_Tour,4009118,52009,52009
+Buffalo,United States,First Niagara Center,Speak_Now_World_Tour,966749,14487,14487
+Hartford,United States,XL Center,Speak_Now_World_Tour,810165,12436,12436
+Foxborough,United States,Gillette Stadium,Speak_Now_World_Tour,8026350,110800,110800
+Foxborough,United States,Gillette Stadium,Speak_Now_World_Tour,8026350,110800,110800
+Greensboro,United States,Greensboro Coliseum,Speak_Now_World_Tour,990701,14789,14789
+Knoxville,United States,ThompsonBoling Arena,Speak_Now_World_Tour,903875,13754,13754
+Montreal,Canada,Bell Centre,Speak_Now_World_Tour,1254230,13439,13439
+Toronto,Canada,Air Canada Centre,Speak_Now_World_Tour,3036000,30144,30144
+Toronto,Canada,Air Canada Centre,Speak_Now_World_Tour,3036000,30144,30144
+Newark,United States,Prudential Center,Speak_Now_World_Tour,3875463,51487,51487
+Newark,United States,Prudential Center,Speak_Now_World_Tour,3875463,51487,51487
+Newark,United States,Prudential Center,Speak_Now_World_Tour,3875463,51487,51487
+Newark,United States,Prudential Center,Speak_Now_World_Tour,3875463,51487,51487
+Grand Rapids,United States,Van Andel Arena,Speak_Now_World_Tour,724854,11012,11012
+Indianapolis,United States,Conseco Fieldhouse,Speak_Now_World_Tour,877175,13329,13329
+Cleveland,United States,Quicken Loans Arena,Speak_Now_World_Tour,976954,14873,14873
+Washington,United States,Verizon Center,Speak_Now_World_Tour,2068789,29303,29303
+Washington,United States,Verizon Center,Speak_Now_World_Tour,2068789,29303,29303
+Philadelphia,United States,Lincoln Financial Field,Speak_Now_World_Tour,4268678,51395,51395
+Rosemont,United States,Allstate Arena,Speak_Now_World_Tour,1909603,26112,26112
+Rosemont,United States,Allstate Arena,Speak_Now_World_Tour,1909603,26112,26112
+St. Louis,United States,Scottrade Center,Speak_Now_World_Tour,1850159,27965,27965
+St. Louis,United States,Scottrade Center,Speak_Now_World_Tour,1850159,27965,27965
+Edmonton,Canada,Rexall Place,Speak_Now_World_Tour,2136270,25336,25336
+Edmonton,Canada,Rexall Place,Speak_Now_World_Tour,2136270,25336,25336
+Los Angeles,United States,Staples Center,Speak_Now_World_Tour,3927154,54900,54900
+Los Angeles,United States,Staples Center,Speak_Now_World_Tour,3927154,54900,54900
+Los Angeles,United States,Staples Center,Speak_Now_World_Tour,3927154,54900,54900
+Los Angeles,United States,Staples Center,Speak_Now_World_Tour,3927154,54900,54900
+San Jose,United States,HP Pavilion,Speak_Now_World_Tour,1825448,24827,24827
+San Jose,United States,HP Pavilion,Speak_Now_World_Tour,1825448,24827,24827
+Sacramento,United States,Power Balance Pavilion,Speak_Now_World_Tour,934326,12432,12432
+Portland,United States,Rose Garden Arena,Speak_Now_World_Tour,903445,13610,13610
+Tacoma,United States,Tacoma Dome,Speak_Now_World_Tour,1289430,19904,19904
+Vancouver,Canada,Rogers Arena,Speak_Now_World_Tour,2190680,26030,26030
+Vancouver,Canada,Rogers Arena,Speak_Now_World_Tour,2190680,26030,26030
+Nashville,United States,Bridgestone Arena,Speak_Now_World_Tour,1841134,28178,28178
+Nashville,United States,Bridgestone Arena,Speak_Now_World_Tour,1841134,28178,28178
+Bossier City,United States,CenturyLink Center,Speak_Now_World_Tour,728546,11510,11510
+Tulsa,United States,BOK Center,Speak_Now_World_Tour,907573,12546,12546
+Kansas City,United States,Arrowhead Stadium,Speak_Now_World_Tour,3148046,48562,48562
+Denver,United States,Pepsi Center,Speak_Now_World_Tour,834916,12908,12908
+Salt Lake City,United States,EnergySolutions Arena,Speak_Now_World_Tour,896946,13720,13720
+Atlanta,United States,Philips Arena,Speak_Now_World_Tour,1726661,26244,26244
+Atlanta,United States,Philips Arena,Speak_Now_World_Tour,1726661,26244,26244
+North Little Rock,United States,Verizon Arena,Speak_Now_World_Tour,856123,13566,13566
+New Orleans,United States,New Orleans Arena,Speak_Now_World_Tour,830289,12943,12943
+Arlington,United States,Cowboys Stadium,Speak_Now_World_Tour,4337062,55451,55451
+Louisville,United States,KFC Yum! Center,Speak_Now_World_Tour,1003828,14848,14848
+Lubbock,United States,United Spirit Arena,Speak_Now_World_Tour,710426,10419,10419
+Oklahoma City,United States,Chesapeake Energy Arena,Speak_Now_World_Tour,758364,11592,11592
+San Diego,United States,Valley View Casino Center,Speak_Now_World_Tour,792634,10834,10834
+Glendale,United States,Jobing.com Arena,Speak_Now_World_Tour,1826025,27029,27029
+Glendale,United States,Jobing.com Arena,Speak_Now_World_Tour,1826025,27029,27029
+San Antonio,United States,AT&T Center,Speak_Now_World_Tour,901535,13851,13851
+Austin,United States,Frank Erwin Center,Speak_Now_World_Tour,752078,11999,11999
+Lexington,United States,Rupp Arena,Speak_Now_World_Tour,1041935,16237,16237
+Memphis,United States,FedExForum,Speak_Now_World_Tour,820036,12604,12604
+Houston,United States,Minute Maid Park,Speak_Now_World_Tour,3435756,42095,42095
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,Speak_Now_World_Tour,749099,11785,11785
+Tampa,United States,St. Pete Times Forum,Speak_Now_World_Tour,914300,13695,13695
+Miami,United States,American Airlines Arena,Speak_Now_World_Tour,786904,12153,12153
+Charlotte,United States,Time Warner Cable Arena,Speak_Now_World_Tour,920903,14272,14272
+Raleigh,United States,RBC Center,Speak_Now_World_Tour,866056,13567,13567
+Columbia,United States,Colonial Life Arena,Speak_Now_World_Tour,828231,12807,12807
+New York,United States,Madison Square Garden,Speak_Now_World_Tour,1988411,26652,26652
+New York,United States,Madison Square Garden,Speak_Now_World_Tour,1988411,26652,26652
+Perth,Australia,Burswood Dome,Speak_Now_World_Tour,1878530,15142,15142
+Adelaide,Australia,Adelaide Entertainment Centre,Speak_Now_World_Tour,1075370,8589,8589
+Brisbane,Australia,Brisbane Entertainment Centre,Speak_Now_World_Tour,2416030,19870,19870
+Brisbane,Australia,Brisbane Entertainment Centre,Speak_Now_World_Tour,2416030,19870,19870
+Sydney,Australia,Allphones Arena,Speak_Now_World_Tour,3420360,27900,27900
+Sydney,Australia,Allphones Arena,Speak_Now_World_Tour,3420360,27900,27900
+Melbourne,Australia,Rod Laver Arena,Speak_Now_World_Tour,4151650,33793,33793
+Melbourne,Australia,Rod Laver Arena,Speak_Now_World_Tour,4151650,33793,33793
+Melbourne,Australia,Rod Laver Arena,Speak_Now_World_Tour,4151650,33793,33793
+Auckland,New Zealand,Vector Arena,Speak_Now_World_Tour,2888560,32585,32585
+Auckland,New Zealand,Vector Arena,Speak_Now_World_Tour,2888560,32585,32585
+Auckland,New Zealand,Vector Arena,Speak_Now_World_Tour,2888560,32585,32585
+Omaha,United States,CenturyLink Center Omaha,The_Red_Tour,2243164,27877,27877
+Omaha,United States,CenturyLink Center Omaha,The_Red_Tour,2243164,27877,27877
+St. Louis,United States,Scottrade Center,The_Red_Tour,2346203,28582,28582
+St. Louis,United States,Scottrade Center,The_Red_Tour,2346203,28582,28582
+Charlotte,United States,Time Warner Cable Arena,The_Red_Tour,1162733,14686,14686
+Columbia,United States,Colonial Life Arena,The_Red_Tour,996114,12490,12490
+Newark,United States,Prudential Center,The_Red_Tour,3565317,38065,38065
+Newark,United States,Prudential Center,The_Red_Tour,3565317,38065,38065
+Newark,United States,Prudential Center,The_Red_Tour,3565317,38065,38065
+Miami,United States,American Airlines Arena,The_Red_Tour,1010175,12808,12808
+Orlando,United States,Amway Center,The_Red_Tour,2054128,25617,25617
+Orlando,United States,Amway Center,The_Red_Tour,2054128,25617,25617
+Atlanta,United States,Philips Arena,The_Red_Tour,2048023,25471,25471
+Atlanta,United States,Philips Arena,The_Red_Tour,2048023,25471,25471
+Tampa,United States,Tampa Bay Times Forum,The_Red_Tour,1132095,14080,14080
+Cleveland,United States,Quicken Loans Arena,The_Red_Tour,1247605,15336,15336
+Indianapolis,United States,Bankers Life Fieldhouse,The_Red_Tour,1082042,13573,13573
+Lexington,United States,Rupp Arena,The_Red_Tour,1342699,17003,17003
+Detroit,United States,Ford Field,The_Red_Tour,3969059,48265,48265
+Louisville,United States,KFC Yum! Center,The_Red_Tour,1246491,15135,15135
+Columbus,United States,Nationwide Arena,The_Red_Tour,1155170,14267,14267
+Washington,United States,Verizon Center,The_Red_Tour,2489205,27619,27619
+Washington,United States,Verizon Center,The_Red_Tour,2489205,27619,27619
+Houston,United States,Toyota Center,The_Red_Tour,961422,12467,12467
+Austin,United States,Frank Erwin Center,The_Red_Tour,935631,11916,11916
+San Antonio,United States,AT&T Center,The_Red_Tour,1105253,13974,13974
+Arlington,United States,Cowboys Stadium,The_Red_Tour,4589266,53020,53020
+Glendale,United States,Jobing.com Arena,The_Red_Tour,2239370,26705,26705
+Glendale,United States,Jobing.com Arena,The_Red_Tour,2239370,26705,26705
+Salt Lake City,United States,EnergySolutions Arena,The_Red_Tour,1139360,14007,14007
+Denver,United States,Pepsi Center,The_Red_Tour,1076069,13489,13489
+Toronto,Canada,Rogers Centre,The_Red_Tour,7863310,87627,87627
+Toronto,Canada,Rogers Centre,The_Red_Tour,7863310,87627,87627
+Winnipeg,Canada,Investors Group Field,The_Red_Tour,3175430,33061,33061
+Edmonton,Canada,Rexall Place,The_Red_Tour,2379870,25663,25663
+Edmonton,Canada,Rexall Place,The_Red_Tour,2379870,25663,25663
+Vancouver,Canada,BC Place Stadium,The_Red_Tour,3974410,41142,41142
+Pittsburgh,United States,Heinz Field,The_Red_Tour,4718518,56047,56047
+East Rutherford,United States,MetLife Stadium,The_Red_Tour,4670011,52399,52399
+Philadelphia,United States,Lincoln Financial Field,The_Red_Tour,8822335,101277,101277
+Philadelphia,United States,Lincoln Financial Field,The_Red_Tour,8822335,101277,101277
+Foxborough,United States,Gillette Stadium,The_Red_Tour,9464063,110712,110712
+Foxborough,United States,Gillette Stadium,The_Red_Tour,9464063,110712,110712
+Des Moines,United States,Wells Fargo Arena,The_Red_Tour,1075576,13368,13368
+Kansas City,United States,Sprint Center,The_Red_Tour,2093172,26412,26412
+Kansas City,United States,Sprint Center,The_Red_Tour,2093172,26412,26412
+Wichita,United States,Intrust Bank Arena,The_Red_Tour,983882,12231,12231
+Tulsa,United States,BOK Center,The_Red_Tour,868955,10949,10949
+Chicago,United States,Soldier Field,The_Red_Tour,4149148,50809,50809
+San Diego,United States,Valley View Casino Center,The_Red_Tour,948541,10872,10872
+Los Angeles,United States,Staples Center,The_Red_Tour,4734463,55829,55829
+Los Angeles,United States,Staples Center,The_Red_Tour,4734463,55829,55829
+Los Angeles,United States,Staples Center,The_Red_Tour,4734463,55829,55829
+Los Angeles,United States,Staples Center,The_Red_Tour,4734463,55829,55829
+Sacramento,United States,Sleep Train Arena,The_Red_Tour,1138103,12795,12795
+Portland,United States,Moda Center,The_Red_Tour,1084760,13952,13952
+Tacoma,United States,Tacoma Dome,The_Red_Tour,1584049,20348,20348
+Fargo,United States,Fargodome,The_Red_Tour,1661578,21073,21073
+Saint Paul,United States,Xcel Energy Center,The_Red_Tour,2320937,28920,28920
+Saint Paul,United States,Xcel Energy Center,The_Red_Tour,2320937,28920,28920
+Greensboro,United States,Greensboro Coliseum,The_Red_Tour,1109253,13650,13650
+Raleigh,United States,PNC Arena,The_Red_Tour,1088612,13941,13941
+Charlottesville,United States,John Paul Jones Arena,The_Red_Tour,997216,12689,12689
+Nashville,United States,Bridgestone Arena,The_Red_Tour,3336545,41292,41292
+Nashville,United States,Bridgestone Arena,The_Red_Tour,3336545,41292,41292
+Nashville,United States,Bridgestone Arena,The_Red_Tour,3336545,41292,41292
+Auckland,New Zealand,Vector Arena,The_Red_Tour,3100290,30799,30799
+Auckland,New Zealand,Vector Arena,The_Red_Tour,3100290,30799,30799
+Auckland,New Zealand,Vector Arena,The_Red_Tour,3100290,30799,30799
+Sydney,Australia,Allianz Stadium,The_Red_Tour,4096060,40930,40930
+Brisbane,Australia,Suncorp Stadium,The_Red_Tour,3895810,38907,38907
+Perth,Australia,Perth Rectangular Stadium,The_Red_Tour,2364080,21827,21827
+Melbourne,Australia,Etihad Stadium,The_Red_Tour,4547250,47257,47257
+London,England,The O2 Arena,The_Red_Tour,5829240,74740,74740
+London,England,The O2 Arena,The_Red_Tour,5829240,74740,74740
+London,England,The O2 Arena,The_Red_Tour,5829240,74740,74740
+Berlin,Germany,O2 World,The_Red_Tour,755006,10350,10350
+Shanghai,China,Mercedes-Benz Arena,The_Red_Tour,1864934,12793,12793
+Saitama,Japan,Saitama Super Arena,The_Red_Tour,1837147,20046,20046
+Jakarta,Indonesia,MEIS Ancol,The_Red_Tour,1481473,8130,8130
+Pasay,Philippines,Mall of Asia Arena,The_Red_Tour,1511662,9775,9775
+Singapore,Singapore,Singapore Indoor Stadium,The_Red_Tour,2524080,16344,16344
+Kuala Lumpur,Malaysia,Putra Indoor Stadium,The_Red_Tour,998608,7525,7525
+Tokyo,Japan,Tokyo Dome,The_1989_World_Tour,10586828,100320,100320
+Tokyo,Japan,Tokyo Dome,The_1989_World_Tour,10586828,100320,100320
+Bossier City,United States,CenturyLink Center,The_1989_World_Tour,1458197,12459,12459
+Baton Rouge,United States,LSU Tiger Stadium,The_1989_World_Tour,4119670,50227,50227
+Detroit,United States,Ford Field,The_1989_World_Tour,5999690,50703,50703
+Louisville,United States,KFC Yum! Center,The_1989_World_Tour,1863281,16242,16242
+Cleveland,United States,Quicken Loans Arena,The_1989_World_Tour,1732041,15503,15503
+Pittsburgh,United States,Heinz Field,The_1989_World_Tour,5836926,54801,54801
+Charlotte,United States,Time Warner Cable Arena,The_1989_World_Tour,1627798,15024,15024
+Raleigh,United States,PNC Arena,The_1989_World_Tour,1653762,13886,13886
+Philadelphia,United States,Lincoln Financial Field,The_1989_World_Tour,11987816,101052,101052
+Philadelphia,United States,Lincoln Financial Field,The_1989_World_Tour,11987816,101052,101052
+Cologne,Germany,Lanxess Arena,The_1989_World_Tour,2054690,29020,29020
+Cologne,Germany,Lanxess Arena,The_1989_World_Tour,2054690,29020,29020
+Amsterdam,Netherlands,Ziggo Dome,The_1989_World_Tour,800829,11166,11166
+Glasgow,Scotland,SSE Hydro,The_1989_World_Tour,1119300,11021,11021
+Manchester,England,Manchester Arena,The_1989_World_Tour,1478760,14773,14773
+Dublin,Ireland,3Arena,The_1989_World_Tour,1975510,25188,25188
+Dublin,Ireland,3Arena,The_1989_World_Tour,1975510,25188,25188
+Ottawa,Canada,Canadian Tire Centre,The_1989_World_Tour,1325480,13480,13480
+Montreal,Canada,Bell Centre,The_1989_World_Tour,1499040,14770,14770
+East Rutherford,United States,MetLife Stadium,The_1989_World_Tour,13423858,110105,110105
+East Rutherford,United States,MetLife Stadium,The_1989_World_Tour,13423858,110105,110105
+Washington,United States,Nationals Park,The_1989_World_Tour,9730596,85014,85014
+Washington,United States,Nationals Park,The_1989_World_Tour,9730596,85014,85014
+Chicago,United States,Soldier Field,The_1989_World_Tour,11469887,110109,110109
+Chicago,United States,Soldier Field,The_1989_World_Tour,11469887,110109,110109
+Foxborough,United States,Gillette Stadium,The_1989_World_Tour,12533166,116849,116849
+Foxborough,United States,Gillette Stadium,The_1989_World_Tour,12533166,116849,116849
+Vancouver,Canada,BC Place,The_1989_World_Tour,4081820,41463,41463
+Edmonton,Canada,Rexall Place,The_1989_World_Tour,2387080,26534,26534
+Edmonton,Canada,Rexall Place,The_1989_World_Tour,2387080,26534,26534
+Seattle,United States,CenturyLink Field,The_1989_World_Tour,6050643,55711,55711
+Santa Clara,United States,Levi's Stadium,The_1989_World_Tour,13031146,102139,102139
+Santa Clara,United States,Levi's Stadium,The_1989_World_Tour,13031146,102139,102139
+Glendale,United States,Gila River Arena,The_1989_World_Tour,3029628,26520,26520
+Glendale,United States,Gila River Arena,The_1989_World_Tour,3029628,26520,26520
+Los Angeles,United States,Staples Center,The_1989_World_Tour,8961681,70563,70563
+Los Angeles,United States,Staples Center,The_1989_World_Tour,8961681,70563,70563
+Los Angeles,United States,Staples Center,The_1989_World_Tour,8961681,70563,70563
+Los Angeles,United States,Staples Center,The_1989_World_Tour,8961681,70563,70563
+Los Angeles,United States,Staples Center,The_1989_World_Tour,8961681,70563,70563
+San Diego,United States,Petco Park,The_1989_World_Tour,5475237,44710,44710
+Salt Lake City,United States,EnergySolutions Arena,The_1989_World_Tour,1589686,14131,14131
+Denver,United States,Pepsi Center,The_1989_World_Tour,2868991,27126,27126
+Denver,United States,Pepsi Center,The_1989_World_Tour,2868991,27126,27126
+Houston,United States,Minute Maid Park,The_1989_World_Tour,5202196,40122,40122
+Saint Paul,United States,Xcel Energy Center,The_1989_World_Tour,5514863,45126,45126
+Saint Paul,United States,Xcel Energy Center,The_1989_World_Tour,5514863,45126,45126
+Saint Paul,United States,Xcel Energy Center,The_1989_World_Tour,5514863,45126,45126
+Indianapolis,United States,Bankers Life Fieldhouse,The_1989_World_Tour,1550268,14010,14010
+Columbus,United States,Nationwide Arena,The_1989_World_Tour,3369693,29936,29936
+Columbus,United States,Nationwide Arena,The_1989_World_Tour,3369693,29936,29936
+Kansas City,United States,Sprint Center,The_1989_World_Tour,2967558,27857,27857
+Kansas City,United States,Sprint Center,The_1989_World_Tour,2967558,27857,27857
+Nashville,United States,Bridgestone Arena,The_1989_World_Tour,3354844,28917,28917
+Nashville,United States,Bridgestone Arena,The_1989_World_Tour,3354844,28917,28917
+St. Louis,United States,Scottrade Center,The_1989_World_Tour,3452940,29688,29688
+St. Louis,United States,Scottrade Center,The_1989_World_Tour,3452940,29688,29688
+Toronto,Canada,Rogers Centre,The_1989_World_Tour,8670990,99283,99283
+Toronto,Canada,Rogers Centre,The_1989_World_Tour,8670990,99283,99283
+Des Moines,United States,Wells Fargo Arena,The_1989_World_Tour,1566321,13969,13969
+Omaha,United States,CenturyLink Center Omaha,The_1989_World_Tour,3121421,29622,29622
+Omaha,United States,CenturyLink Center Omaha,The_1989_World_Tour,3121421,29622,29622
+Fargo,United States,Fargodome,The_1989_World_Tour,2219188,21067,21067
+Arlington,United States,AT&T Stadium,The_1989_World_Tour,7396733,62630,62630
+Lexington,United States,Rupp Arena,The_1989_World_Tour,1870471,17084,17084
+Greensboro,United States,Greensboro Coliseum,The_1989_World_Tour,1662171,15079,15079
+Atlanta,United States,Georgia Dome,The_1989_World_Tour,6034846,56046,56046
+Miami,United States,American Airlines Arena,The_1989_World_Tour,1527919,14044,14044
+Tampa,United States,Raymond James Stadium,The_1989_World_Tour,6202515,56987,56987
+Singapore,Singapore,Singapore Indoor Stadium,The_1989_World_Tour,3217569,17726,17726
+Singapore,Singapore,Singapore Indoor Stadium,The_1989_World_Tour,3217569,17726,17726
+Shanghai,China,Mercedes-Benz Arena,The_1989_World_Tour,5917348,37758,37758
+Shanghai,China,Mercedes-Benz Arena,The_1989_World_Tour,5917348,37758,37758
+Shanghai,China,Mercedes-Benz Arena,The_1989_World_Tour,5917348,37758,37758
+Sydney,Australia,ANZ Stadium,The_1989_World_Tour,6571683,75980,75980
+Brisbane,Australia,Suncorp Stadium,The_1989_World_Tour,4759471,46881,46881
+Adelaide,Australia,Adelaide Entertainment Centre,The_1989_World_Tour,2407499,20090,20090
+Adelaide,Australia,Adelaide Entertainment Centre,The_1989_World_Tour,2407499,20090,20090
+Melbourne,Australia,AAMI Park,The_1989_World_Tour,10421553,98136,98136
+Melbourne,Australia,AAMI Park,The_1989_World_Tour,10421553,98136,98136
+Melbourne,Australia,AAMI Park,The_1989_World_Tour,10421553,98136,98136
+Glendale,United States,University of Phoenix Stadium,Reputation_Stadium_Tour,7214478,59157,59157
+Santa Clara,United States,Levi's Stadium,Reputation_Stadium_Tour,14006963,107550,107550
+Santa Clara,United States,Levi's Stadium,Reputation_Stadium_Tour,14006963,107550,107550
+Pasadena,United States,Rose Bowl,Reputation_Stadium_Tour,16251980,118084,118084
+Pasadena,United States,Rose Bowl,Reputation_Stadium_Tour,16251980,118084,118084
+Seattle,United States,CenturyLink Field,Reputation_Stadium_Tour,8672219,56021,56021
+Denver,United States,Sports Authority Field at Mile High,Reputation_Stadium_Tour,7926366,57140,57140
+Chicago,United States,Soldier Field,Reputation_Stadium_Tour,14576697,105208,105208
+Chicago,United States,Soldier Field,Reputation_Stadium_Tour,14576697,105208,105208
+Manchester,England,Etihad Stadium,Reputation_Stadium_Tour,6169724,77258,77258
+Manchester,England,Etihad Stadium,Reputation_Stadium_Tour,6169724,77258,77258
+Dublin,Ireland,Croke Park,Reputation_Stadium_Tour,8567769,133034,133034
+Dublin,Ireland,Croke Park,Reputation_Stadium_Tour,8567769,133034,133034
+London,England,Wembley Stadium,Reputation_Stadium_Tour,12214933,143427,143427
+London,England,Wembley Stadium,Reputation_Stadium_Tour,12214933,143427,143427
+Louisville,United States,Cardinal Stadium,Reputation_Stadium_Tour,4928219,52138,52138
+Columbus,United States,Ohio Stadium,Reputation_Stadium_Tour,6606529,62897,62897
+Landover,United States,FedExField,Reputation_Stadium_Tour,11396004,95672,95672
+Landover,United States,FedExField,Reputation_Stadium_Tour,11396004,95672,95672
+Philadelphia,United States,Lincoln Financial Field,Reputation_Stadium_Tour,11951047,107378,107378
+Philadelphia,United States,Lincoln Financial Field,Reputation_Stadium_Tour,11951047,107378,107378
+Cleveland,United States,FirstEnergy Stadium,Reputation_Stadium_Tour,5148757,51323,51323
+East Rutherford,United States,MetLife Stadium,Reputation_Stadium_Tour,22031386,165654,165654
+East Rutherford,United States,MetLife Stadium,Reputation_Stadium_Tour,22031386,165654,165654
+East Rutherford,United States,MetLife Stadium,Reputation_Stadium_Tour,22031386,165654,165654
+Foxborough,United States,Gillette Stadium,Reputation_Stadium_Tour,21779846,174764,174764
+Foxborough,United States,Gillette Stadium,Reputation_Stadium_Tour,21779846,174764,174764
+Foxborough,United States,Gillette Stadium,Reputation_Stadium_Tour,21779846,174764,174764
+Toronto,Canada,Rogers Centre,Reputation_Stadium_Tour,11177000,100310,100310
+Toronto,Canada,Rogers Centre,Reputation_Stadium_Tour,11177000,100310,100310
+Pittsburgh,United States,Heinz Field,Reputation_Stadium_Tour,6230876,56445,56445
+Atlanta,United States,Mercedes-Benz Stadium,Reputation_Stadium_Tour,18089415,116746,116746
+Atlanta,United States,Mercedes-Benz Stadium,Reputation_Stadium_Tour,18089415,116746,116746
+Tampa,United States,Raymond James Stadium,Reputation_Stadium_Tour,7244264,55909,55909
+Miami Gardens,United States,Hard Rock Stadium,Reputation_Stadium_Tour,7072164,47818,47818
+Nashville,United States,Nissan Stadium,Reputation_Stadium_Tour,9007179,56112,56112
+Detroit,United States,Ford Field,Reputation_Stadium_Tour,6597852,49464,49464
+Minneapolis,United States,U.S. Bank Stadium,Reputation_Stadium_Tour,10242024,98774,98774
+Minneapolis,United States,U.S. Bank Stadium,Reputation_Stadium_Tour,10242024,98774,98774
+Kansas City,United States,Arrowhead Stadium,Reputation_Stadium_Tour,6730138,58611,58611
+Indianapolis,United States,Lucas Oil Stadium,Reputation_Stadium_Tour,6531245,55729,55729
+St. Louis,United States,The Dome at America's Center,Reputation_Stadium_Tour,4884054,47831,47831
+New Orleans,United States,Mercedes-Benz Superdome,Reputation_Stadium_Tour,6491546,53172,53172
+Houston,United States,NRG Stadium,Reputation_Stadium_Tour,9350275,53800,53800
+Arlington,United States,AT&T Stadium,Reputation_Stadium_Tour,15006157,105002,105002
+Arlington,United States,AT&T Stadium,Reputation_Stadium_Tour,15006157,105002,105002
+Perth,Australia,Optus Stadium,Reputation_Stadium_Tour,4153658,50891,50891
+Melbourne,Australia,Marvel Stadium,Reputation_Stadium_Tour,6755570,63027,63027
+Sydney,Australia,ANZ Stadium,Reputation_Stadium_Tour,7686564,72805,72805
+Brisbane,Australia,The Gabba,Reputation_Stadium_Tour,4338127,43907,43907
+Auckland,New Zealand,Mount Smart Stadium,Reputation_Stadium_Tour,3617593,35749,35749
+Tokyo,Japan,Tokyo Dome,Reputation_Stadium_Tour,14859847,100109,100109
+Tokyo,Japan,Tokyo Dome,Reputation_Stadium_Tour,14859847,100109,100109
